@@ -1,0 +1,16 @@
+.toolBar {
+    background-color: 'purple'; 
+    height: '70px';
+    padding : '11px';
+}
+
+.img {
+    background-color: '#ff7f7f';
+    height: '35px';
+}
+
+.toolHeader {
+    text-align: 'center';
+    background-color: 'purple';
+    color: 'white'
+}

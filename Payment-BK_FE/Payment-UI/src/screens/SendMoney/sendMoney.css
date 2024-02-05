@@ -1,0 +1,28 @@
+.tab {
+    text-align: 'center';
+}
+
+.bookAppointmentButton {
+    width: '40%';
+    margin:'10px';
+}
+
+.veiwDetailsButton {
+    background-color:'green';
+    color:'white';
+    width: '40%';
+    margin:'10px'
+}
+
+.cardHeader {
+    height:'70px'; 
+    padding: '11px';
+    color:'white';
+}
+
+.cardPaper {
+    text-align:'left';
+    margin:'15px';
+    padding: '20px';
+    cursor:'pointer'
+}
